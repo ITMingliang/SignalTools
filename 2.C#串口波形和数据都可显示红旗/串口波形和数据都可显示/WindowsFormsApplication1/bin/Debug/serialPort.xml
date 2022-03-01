@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="gb2312"?>
+<Node1>
+  <PortName Index="0" Text="COM1" />
+  <BaudRate Index="6" Text="9600" />
+  <Parity Index="0" Text="None" />
+  <DataBits Index="1" Text="7" />
+  <StopBits Index="0" Text="1" />
+</Node1>

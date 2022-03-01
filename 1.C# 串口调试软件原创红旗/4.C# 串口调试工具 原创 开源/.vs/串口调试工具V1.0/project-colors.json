@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fbc0f7aa-72d0-425e-8b88-f11fb7bca914": {
+      "ProjectGuid": "fbc0f7aa-72d0-425e-8b88-f11fb7bca914",
+      "DisplayName": "串口调试工具",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
